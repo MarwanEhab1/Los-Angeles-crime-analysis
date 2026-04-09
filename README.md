@@ -1,13 +1,13 @@
 # Los-Angeles-crime-analysis
 Crime pattern analysis in Los Angeles using Python (EDA + Geospatial + Temporal Analysis)
-# 🛡️ Los Angeles Crime Analysis Project (2020 - 2024)
+#  Los Angeles Crime Analysis Project (2020 - 2024)
 
-## 📌 Project Overview
+##  Project Overview
 This project provides a comprehensive **Exploratory Data Analysis (EDA)** of crime patterns in Los Angeles from 2020 to 2024. By analyzing over 800,000 crime records, the study aims to identify temporal trends, high-risk locations, and victim demographics to support data-driven public safety strategies.
 
 ---
 
-## 📊 Key Insights & Findings
+##  Key Insights & Findings
 
 ### 1. Temporal Patterns (The "When")
 * **Peak Hours:** Crime incidents significantly surge during the **Night** and **Afternoon** periods.
@@ -30,7 +30,7 @@ This project provides a comprehensive **Exploratory Data Analysis (EDA)** of cri
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Seaborn, Matplotlib
 * **Environment:** Jupyter Notebook
